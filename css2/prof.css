@@ -1,0 +1,99 @@
+
+#table{
+	display:table;
+	width:75%;
+	margin:auto;
+	background-color:white;
+}
+#row{
+	display:table-row;
+	padding:5px;
+	background-color: #f8f8f8;
+
+}
+#info{
+	display:table-cell;
+	padding:5px;
+	width:50%;
+}
+#detail{
+	color: #333;
+font-size: 15px;
+display: block;
+padding: 10px;
+font-weight:bold;	
+}
+#qa{
+	display:table-cell;
+	padding-top:10px;
+	vertical-align:top;
+}
+h2{
+	padding:5px;
+	
+font-family:cursive;
+}
+.det{
+margin-left:5px;
+
+font-family:cursive;
+font-weight:bold;
+font-size:1em;	
+}
+#desc{
+	padding-bottom:10px;
+}
+ul.dev{
+	padding-left:20px;
+	list-style-type: devanagari;
+    max-height:350px;
+ max-width:550px;
+   padding-right:20px;
+	
+	
+}
+.qst{
+	text-align:left;
+	padding:2px;
+}
+.qttl{
+	padding:0px;
+	font-size:.9em;
+	text-align:left;
+	font-weight:normal;
+}
+.qqq{
+	text-align:left;
+	padding-left:20px;
+	
+}
+div.dq{
+	padding-right:10px;
+	overflow-y:scroll;
+	 overflow-x: hidden;
+}
+
+a.delete{
+	    text-decoration: none;
+    
+    color: brown;
+    border: ridge;
+    border-radius: 5px;
+}
+button.trigger{
+	    border: ridge;
+    border-radius: 5px;
+    color: dodgerblue;
+    background-color: bisque;
+}
+button{
+	color: chartreuse;
+    background: mistyrose;
+    border-top-style: groove;
+    border-left-style: groove;
+    border-radius: 7px
+}
+div.da{
+	overflow-y:scroll;
+	
+}

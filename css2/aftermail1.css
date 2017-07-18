@@ -1,0 +1,32 @@
+body{
+font-family: serif,sans-serif,cursive,monoscape;
+font-size: 1em;
+margin: 0px;
+background-color:white;
+}
+.headernav{
+	float:right;
+	margin-right:20px;
+	
+}
+#wrapper{
+	display:block;
+}
+.enter{
+	display:block;
+}
+img{
+	height:30%;
+	width:20%;
+	margin:10px;
+	margin-left:20px;
+}
+.frm{
+
+}
+.form{
+	display:inline-block;
+	vertical-align:top;
+	padding-left:20%;
+	
+}
